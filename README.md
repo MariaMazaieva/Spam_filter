@@ -1,4 +1,4 @@
-# 📬 Spam Filter System
+#  Spam Filter System
 
 This project is a Python-based Spam Filter designed to detect and classify spam emails using a custom-built corpus and rule-based filtering.
 
