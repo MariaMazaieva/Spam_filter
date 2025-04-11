@@ -12,6 +12,8 @@ class Corpus:
             with open(filepath, "rt", encoding= "UTF-8") as f:
                 text = f.read()
                 yield filepath, text 
+
+                
                 
 
 
