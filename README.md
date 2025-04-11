@@ -4,7 +4,7 @@ This project is a Python-based Spam Filter designed to detect and classify spam 
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Extracts and parses email content
 -  Preprocesses email bodies and subjects
@@ -14,7 +14,7 @@ This project is a Python-based Spam Filter designed to detect and classify spam 
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 | File | Description |
 |------|-------------|
@@ -26,7 +26,7 @@ This project is a Python-based Spam Filter designed to detect and classify spam 
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Training corpus** is built from manually defined spam keywords.
 2. **Email content** is extracted and cleaned.
